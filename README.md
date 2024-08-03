@@ -1,0 +1,1 @@
+This is a free website template, i'm doing this because i can improve upon my devoloping skills, get some feedback, collaberate with other developers, and possibly help out other developers trying to quickstart a website
